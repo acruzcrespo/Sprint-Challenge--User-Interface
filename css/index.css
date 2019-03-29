@@ -81,9 +81,8 @@ header nav {
     width: 610px;
     justify-content: space-between;
     display: flex;
-    padding: 15px;
-    align-content: space-between;
-    text-align: end;
+    padding: 20px;
+    align-items: center;
 }
 
 header nav a {
@@ -238,7 +237,8 @@ header nav {
     width: 610px;
     display: flex;
     justify-content: space-between;
-    align-content: space-between;
+    align-items: center;
+    padding: 20px;
 }
 
 header nav a {
