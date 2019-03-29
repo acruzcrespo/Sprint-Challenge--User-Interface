@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+--Semantic html is what provide meaning to a web page. With semantic html everyone can read the code and understand what is the flow of the web page.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+--Two big differences between display: block and display:inline is that display:block yu have height, padding, width, something that with display: inline you just have to used padding. Another difference is that display:inline don't have vertical axis manipulation. 
 
 3. What are the 4 areas of the box model?
 
+--The four areas of the box model are: padding edge, border edge, margin edge, and content edge.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+--Align items: center works on the cross axis. 
+
 5. Explain why git is valuable to a team of developers.
+
+-- Git is very important to be used on a team, since git allows to have several versions of the project running at the same time. Also, when using git you can ahve backups copies of the projects. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -89,10 +99,10 @@ You will also notice there are 10 boxes on the home page that need background co
 
 [Review the provided design file for the about page](design-files/about.png). You have been provided the HTML wrapper, footer, and page content for the about page. Create the rest of the missing HTML and CSS to match the design file.
 
-* [ ] Copy and paste your home page navigation and header into the about page
-* [ ] Update the header image with the about page image
-* [ ] Link the `Home` navigation item back to the `index.html` page.
-* [ ] Build the rest of the about page layout to match the design
+* [X] Copy and paste your home page navigation and header into the about page
+* [X] Update the header image with the about page image
+* [X] Link the `Home` navigation item back to the `index.html` page.
+* [] Build the rest of the about page layout to match the design
 
 In your solution, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
 

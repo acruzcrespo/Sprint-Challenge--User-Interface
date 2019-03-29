@@ -235,10 +235,9 @@ header {
 header nav {
     margin-top: 40px;
     width: 610px;
-    justify-content: space-between;
     display: flex;
-    /*padding: 15px;
-    align-content: center;*/
+    justify-content: space-between;
+    align-content: center;
 }
 
 header nav a {
